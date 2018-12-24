@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "on",
+    "php.validate.executablePath": "C://Tools//php//php.exe",
+    "php.validate.run": "onType"
+}
